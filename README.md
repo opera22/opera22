@@ -1,9 +1,9 @@
 # Opera22 is Andrew Burns
 ### Philosophically trained thinker with experience in Python, Java, C++, HTML, and CSS.
 
-![portrait picture](githubpfp1.png)
-Contact: andrewburns.r@gmail.com
-LinkedIn: linkedin.com/in/opera22
+![portrait picture](githubpfp1.png)  
+**Contact:** andrewburns.r@gmail.com  
+**LinkedIn:** [opera22](http://www.linkedin.com/in/opera22)
 
 
 <!--
