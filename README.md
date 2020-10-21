@@ -1,4 +1,7 @@
-### Hi there 👋
+# Opera22 is Andrew Burns
+## Philosophically trained thinker with a knack for quickly mastering technologies.
+
+
 
 <!--
 **opera22/opera22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
