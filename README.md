@@ -1,4 +1,4 @@
-# Opera22 is Andrew Burns
+# Opera22 is Drew Burns
 ### Philosophically trained thinker with experience in Python, Java, C++, HTML, and CSS.
 
 ![portrait picture](githubpfp1.png)  
