@@ -1,5 +1,5 @@
 # Opera22 is Andrew Burns
-## Philosophically trained thinker with a knack for quickly mastering technologies.
+### Philosophically trained thinker with a knack for quickly mastering technologies.
 
 
 
