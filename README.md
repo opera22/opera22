@@ -1,7 +1,7 @@
 # Opera22 is Andrew Burns
-### Philosophically trained thinker with a knack for quickly mastering technologies.
+### Philosophically trained thinker with experience in Python, Java, C++, HTML, and CSS.
 
-!(portrait picture)[githubpfp1.png]
+![portrait picture](githubpfp1.png)
 
 
 <!--
