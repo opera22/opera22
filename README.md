@@ -3,7 +3,9 @@
 
 ![portrait picture](githubpfp1.png)  
 **Contact:** andrewburns.r@gmail.com  
-**LinkedIn:** [opera22](http://www.linkedin.com/in/opera22)
+**LinkedIn:** [opera22](http://www.linkedin.com/in/opera22)  
+
+***“Dare to err and to dream. Deep meaning often lies in childish play.”*** -Friedrich Schiller
 
 
 <!--
