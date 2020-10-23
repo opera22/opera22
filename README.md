@@ -5,7 +5,7 @@
 **Contact:** andrewburns.r@gmail.com  
 **LinkedIn:** [opera22](http://www.linkedin.com/in/opera22)  
 
-***“Dare to err and to dream. Deep meaning often lies in childish play.”*** -Friedrich Schiller
+***“One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words.”*** -Johann Wolfgang von Goethe
 
 
 <!--
