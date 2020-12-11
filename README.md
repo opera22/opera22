@@ -1,5 +1,5 @@
 # Drew Burns - opera22
-### Philosophically trained thinker with experience in Python, Java, C++, HTML, and CSS.
+### Philosophically trained thinker with experience in Python, Java, and C++.
 
 ![portrait picture](githubpfp1.png)  
 **Contact:** andrewburns.r@gmail.com  
