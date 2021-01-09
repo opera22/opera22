@@ -1,8 +1,7 @@
 # Drew Burns - opera22
 ### Philosophically trained thinker with experience in Python, Java, and C++.
 
-**Contact:** andrewburns.r@gmail.com  
-**LinkedIn:** [opera22](http://www.linkedin.com/in/opera22)  
+**Contact:** andrewburns.r@gmail.com   
 
 ***“One ought, every day at least, to hear a little song, read a good poem, see a fine picture, and, if it were possible, to speak a few reasonable words.”*** -Johann Wolfgang von Goethe
 
@@ -20,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**LinkedIn:** [opera22](http://www.linkedin.com/in/opera22) 
 -->
