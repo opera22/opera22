@@ -1,5 +1,5 @@
 # Drew Burns - opera22
-### Philosophically trained thinker with experience in Python, Java, and C++.
+### Philosophically trained thinker with experience in Python, Java, C++, and analytical tools such as Pandas and Seaborn. 
 
 **Contact:** andrewburns.r@gmail.com   
 
