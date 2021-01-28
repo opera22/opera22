@@ -1,5 +1,5 @@
 # Drew Burns - opera22
-### Philosophically trained thinker with experience in Python, Java, C++, and analytical tools such as Pandas, SKLearn, and Altair. 
+### Philosophically trained thinker interested in data analysis / machine learning using Python, Pandas, SKLearn, and Altair. Familiar with Java and C++.
 
 **Contact:** andrewburns.r@gmail.com   
 
