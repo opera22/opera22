@@ -9,9 +9,9 @@
 
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-Python-blue"></td>
-    <td><img src="https://img.shields.io/badge/-NodeJS-green"></td>
-    <td><img src="https://img.shields.io/badge/-Pandas-blue"></td>
+    <td><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Pandas-blue?style=for-the-badge"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-JavaScript-yellow"></td>
