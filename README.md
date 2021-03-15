@@ -18,7 +18,7 @@
     <td><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-Google%20Colab-orange?style=for-the-badge"></td>
-    <td><img src="https://img.shields.io/badge/-Unix-lightgrey?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Basic%20Linux%30Shell-lightgrey?style=for-the-badge"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge"></td>
