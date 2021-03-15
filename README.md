@@ -18,13 +18,13 @@
     <td><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-Google%20Colab-orange?style=for-the-badge"></td>
-    <td><img src="https://img.shields.io/badge/-Basic%20Linux%20Shell-lightgrey?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Technical%20Writing-lightgrey?style=for-the-badge"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-React-9cf?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-SKLearn-9cf?style=for-the-badge"></td>
-    <td><img src="https://img.shields.io/badge/-Technical%20Writing-lightgrey?style=for-the-badge"></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
