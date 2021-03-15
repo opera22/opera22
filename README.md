@@ -14,19 +14,19 @@
     <td><img src="https://img.shields.io/badge/-Pandas-blue?style=for-the-badge"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-JavaScript-yellow"></td>
-    <td><img src="https://img.shields.io/badge/-PostgreSQL-blue"></td>
-    <td><img src="https://img.shields.io/badge/-Google%20Colab-green"></td>
+    <td><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Google%20Colab-green?style=for-the-badge"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/-SQL-lightgrey"></td>
-    <td><img src="https://img.shields.io/badge/-React-9cf"></td>
-    <td><img src="https://img.shields.io/badge/-SKLearn-9cf"></td>
+    <td><img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-React-9cf?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-SKLearn-9cf?style=for-the-badge"></td>
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://img.shields.io/badge/-Docker-9cf"></td>
-    <td><img src="https://img.shields.io/badge/-Altair-red"></td>
+    <td><img src="https://img.shields.io/badge/-Docker-9cf?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Altair-red?style=for-the-badge"></td>
   </tr>
 </table>
 
