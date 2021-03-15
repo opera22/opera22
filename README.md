@@ -6,27 +6,31 @@
     <th>Languages</th>
     <th>Web Development</th>
     <th>Data Science</th> 
-
+    <th>Misc.</th>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-NodeJS-green?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-Pandas-blue?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Git-red?style=for-the-badge"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-Google%20Colab-green?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Unix-lightgrey?style=for-the-badge"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-React-9cf?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-SKLearn-9cf?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/-Technical%20Writing-lightgrey?style=for-the-badge"></td>
   </tr>
   <tr>
     <td></td>
     <td><img src="https://img.shields.io/badge/-Docker-9cf?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/-Altair-red?style=for-the-badge"></td>
+    <td></td>
   </tr>
 </table>
 
