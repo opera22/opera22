@@ -1,7 +1,7 @@
 # Drew Burns - opera22
 ### Philosophically trained thinker interested in data analysis, machine learning, and web development. 
 
-<table style="width:100%">
+<!-- <table style="width:100%">
   <tr>
     <th>Languages</th>
     <th>Web Development</th>
@@ -32,7 +32,7 @@
     <td><img src="https://img.shields.io/badge/-Altair-red?style=for-the-badge"></td>
     <td></td>
   </tr>
-</table>
+</table> -->
 
 
 **Contact:** andrewburns.r@gmail.com   
