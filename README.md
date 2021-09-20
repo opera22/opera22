@@ -1,5 +1,5 @@
 # Drew Burns - opera22
-### Philosophically trained thinker interested in data analysis, machine learning, and web development. 
+### Philosophically trained thinker interested in data analytics development, machine learning, and web development. 
 
 <!-- <table style="width:100%">
   <tr>
